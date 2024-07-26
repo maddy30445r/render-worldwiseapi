@@ -1,0 +1,26 @@
+{
+    "cities": [
+      {
+        "cityName": "Amsterdam",
+        "country": "Netherlands (Kingdom of the)",
+        "date": "2024-07-25T07:45:31.854Z",
+        "notes": "An Amazing place to  be....😍",
+        "position": {
+          "lat": "52.362629689134664",
+          "lng": "4.899984878152034"
+        },
+        "id": 1
+      },
+      {
+        "cityName": "Firozabad",
+        "country": "India",
+        "date": "2024-07-25T07:46:11.367Z",
+        "notes": "City of Bangles...💓",
+        "position": {
+          "lat": "27.165278",
+          "lng": "78.3907842"
+        },
+        "id": 2
+      }
+    ]
+  }
